@@ -1,4 +1,5 @@
-import Bounce from "./components/Bounce"
+// import Bounce from "./components/Bounce"
+import RotateAnimation from "./components/SpinningIcon"
 // import Box from "./components/Box"
 
 
@@ -6,7 +7,8 @@ const App = () => {
   return (
   <div>
   {/* <Box /> */}
-  <Bounce />
+  {/* <Bounce /> */}
+  <RotateAnimation />
   </div>
   )
 }
