@@ -1,5 +1,6 @@
 // import Bounce from "./components/Bounce"
-import Skew from "./components/Skew"
+import CombinedTransformation from "./components/CombinedTransformation"
+// import Skew from "./components/Skew"
 // import RotateAnimation from "./components/SpinningIcon"
 // import Box from "./components/Box"
 
@@ -10,7 +11,8 @@ const App = () => {
   {/* <Box /> */}
   {/* <Bounce /> */}
   {/* <RotateAnimation /> */}
-  <Skew />
+  {/* <Skew /> */}
+  <CombinedTransformation />
   </div>
   )
 }
